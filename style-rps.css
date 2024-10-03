@@ -1,0 +1,36 @@
+body{
+  background-color:rgb(24, 23, 23);
+  color:white;
+  font-family:Arial;
+}
+.heading{
+   font-size:30px;
+   font-weight:bold;
+}
+.design-icon{
+  height:50px;
+}
+.button-pic{
+  background-color:transparent;
+  border: 3px solid white;
+  border-radius:60px;
+  height:120px;
+  width:120px;
+  margin-right:10px;
+  cursor:pointer;
+  margin-bottom:25px;
+}
+.resize{
+  font-size:25px;
+  font-weight:bold;
+}
+.rsp{
+  margin-top:60px;
+}
+.Reset-button{
+  background-color:white;
+  border:none;
+  padding:10px;
+  font-size:14px;
+  cursor:pointer;
+}
