@@ -80,7 +80,7 @@ document.querySelector('.result')
 .innerHTML =`${result}`;
 
 document.querySelector('.decision')
-.innerHTML =`You  <img class="design-icon" src="../pics/${Move}-emoji.png">   <img class="design-icon" src="../pics/${computerMove}-emoji.png"> Computer`;
+.innerHTML =`You  <img class="design-icon" src="${Move}-emoji.png">   <img class="design-icon" src="${computerMove}-emoji.png"> Computer`;
 }
 
 function updateScore(){
